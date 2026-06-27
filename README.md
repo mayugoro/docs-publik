@@ -51,4 +51,5 @@ Content-Type: application/json
   }
 }
 ```
+> ⚠️ **Note:** Untuk mendapatkan nilai `X-PAK`, silakan hubungi [@Mayugoro](https://t.me/Mayugoro?text=bang%20minta%20X-PAK-KEY).
 </details>
