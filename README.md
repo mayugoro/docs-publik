@@ -52,5 +52,6 @@ Content-Type: application/json
 }
 ```
 > ⚠️ **Note:** Nilai `X-PAK` adalah wajib, sebagai parameter pelindung agar permintaan bersumber asli dari anda, bukan spammer.
+> 
 > **Best Regards:** `Mayugoro`
 </details>
